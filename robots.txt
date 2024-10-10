@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /private/
+Allow: /
+
+Sitemap: https://ishita-bhatiaa.github.io/sitemap.xml 
